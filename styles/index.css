@@ -165,7 +165,7 @@ hr{
 }
 
 .techno{
-	background: linear-gradient(rgba(0, 0, 100, 0.1), rgba(0, 0, 100, 0.9));
+	background: linear-gradient(rgba(0, 0, 0, 0.95), rgba(250, 255, 255, 0.5));
 	width: 100%;
 	height: 42rem;
 	display: flex;
@@ -176,7 +176,7 @@ hr{
 }
 
 .techno h2{
-	background-color: rgb(220,220,220);
+	background-color: rgb(200,200,200);
 	width: 70%;
 	height: 4rem;
 	color: rgba(123, 31, 31,0.7);
@@ -350,7 +350,7 @@ hr{
 
 
 .projects{
-	background: radial-gradient(rgba(220, 220, 220, 1),rgba(54, 69, 64,0.95));
+	background: radial-gradient(rgba(250, 250, 250, 0.4),rgba(250, 250, 250, 0.5)));
 	height: 42rem;
 	padding: 2rem;
 	display: flex;
@@ -361,7 +361,7 @@ hr{
 }
 
 .projects h2{
-	background-color: rgb(220,220,220);
+	background-color: rgb(200,200,200);
 	width: 70%;
 	height: 4rem;
 	color: rgba(123, 31, 31,0.7);
@@ -435,7 +435,7 @@ hr{
 }
 
 .contact h2{
-	background-color: rgb(230,230,230);
+	background-color: rgb(200,200,200);
 	width: 70%;
 	height: 4rem;
 	color: rgba(123, 31, 31,0.7);
